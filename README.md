@@ -8,3 +8,4 @@ Our SDK and many smaller plug-ins have been contributed as open source community
 
 For now, we're an internatinal team from Europe (Specially France) and China. Our customer are mainly from Europe and China. But we want to be able to contribute as much as possible to software teams around the world.
 
+We offer our European customers Feature Management services in a privatised deployment. In China, we currently offer SaaS as our main offering, https://featureflag.co
