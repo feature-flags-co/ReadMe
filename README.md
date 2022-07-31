@@ -2,7 +2,7 @@
 
 The co in feature-flags-co means oxygen, we want to inject oxygen into the feature flags technology and feature managment platform to bring a healthy environment to software engineering.
 
-`feature-flags-co` is a Feature Management platform. It provides a Feature flags technology service and a Feature Management service. Technically, we call it Release as `Code`.
+`feature-flags-co` is a Feature Management platform. It provides a Feature flags technology service and a Feature Management service. Technically, we call it `Release as Code`.
 
 On top of `Release as Code`, we are also building an online and offline data feedback and software monetisation system during the release process, to better enable the team to achieve Lean Startup, AB testing and Entitlement management. We now call this `Lean as Code`.
 
