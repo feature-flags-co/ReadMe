@@ -24,6 +24,42 @@ As with most Feature Management platforms, we offer the following basic services
   - Targeted rollouts/release progressions
 - Trunk-based development
 
+# Présentation des produits
+
+Feature flags Management 
+
+![a1b65296e4b93dfa6579d7792caf05ad](https://user-images.githubusercontent.com/68597908/182149870-ab8d621b-3f5b-4254-bb83-bdcde7b43195.png)
+
+Multi-variation 
+
+![9d4a235b9323256e378b871ed9dc3d1a](https://user-images.githubusercontent.com/68597908/182150070-750e3e42-462c-4d23-8972-c0029a7abf18.png)
+
+Règles personnalisées for progression release
+
+![1d67259e540833508daea5bc75f62be4](https://user-images.githubusercontent.com/68597908/182150312-5c3d5b1a-77e8-41f7-a587-f3feccbcf4f1.png)
+
+Reusable User Segmentation
+
+![2336b992294a15a3bdbeb5b6cb367d1a](https://user-images.githubusercontent.com/68597908/182150485-aa2d2008-68cf-43d1-93b0-4c6ab1cd10cb.png)
+
+Software Monetization
+
+![ae99ec7fb03fb7671df57f69d582706f](https://user-images.githubusercontent.com/68597908/182150669-2d2d4f0c-a605-4355-882d-7e6afac74f71.png)
+
+AB Test
+
+![image](https://user-images.githubusercontent.com/68597908/182151063-36427c67-bcc0-433f-be00-34e62af65faa.png)
+
+
+Multi-orgnazations / multi-projects / multi-enviroments
+
+![image](https://user-images.githubusercontent.com/68597908/182150803-98899f8a-9619-44d9-906d-63da4098905a.png)
+
+Remote Config
+
+![image](https://user-images.githubusercontent.com/68597908/182151343-9a69190a-c0ed-4908-9174-01c5ffae863e.png)
+
+
 # About open source
 
 Given our current customer requirements, our core project code is not yet open source, and we may gradually release a working core code base at a later stage.
