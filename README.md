@@ -10,17 +10,19 @@ On top of `Release as Code`, we are also building an online and offline data fee
 
 As with most Feature Management platforms, we offer the following basic services：
 
-- Decoupling deployments from releases
-- Testing in production
-- Progressive Delivery: Risk-free CI/CD
-- Beta testing and qualitative feedback
-- Kill switches
-- Targeted rollouts/release progressions
-- Data & Cloud Migration
-- Experimentation and A/B testing
+- Release as Code
+  - Decoupling deployments from releases
+  - Testing in production
+  - Progressive Delivery: Risk-free CI/CD
+  - Beta testing and qualitative feedback
+  - Canary launches
+  - Kill switches
+  - Data & Cloud Migration
+- Lean as Code
+  - Experimentation and A/B testing
+  - Entitlements Management / Software Monetisation
+  - Targeted rollouts/release progressions
 - Trunk-based development
-- Canary launches
-- Entitlements Management / Software Monetisation
 
 # About open source
 
