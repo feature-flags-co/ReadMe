@@ -6,6 +6,22 @@ The co in feature-flags-co means oxygen, we want to inject oxygen into the featu
 
 On top of `Release as Code`, we are also building an online and offline data feedback and software monetisation system during the release process, to better enable the team to achieve Lean Startup, AB testing and Entitlement management. We now call this `Lean as Code`.
 
+# Core functionalities
+
+As with most Feature Management platforms, we offer the following basic services：
+
+- Decoupling deployments from releases
+- Testing in production
+- Progressive Delivery: Risk-free CI/CD
+- Beta testing and qualitative feedback
+- Kill switches
+- Targeted rollouts/release progressions
+- Data & Cloud Migration
+- Experimentation and A/B testing
+- Trunk-based development
+- Canary launches
+- Entitlements Management / Software Monetisation
+
 # About open source
 
 Given our current customer requirements, our core project code is not yet open source, and we may gradually release a working core code base at a later stage.
